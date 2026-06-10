@@ -1,4 +1,4 @@
-# 🚀 Retail Analytics Data Engineering Project
+# Retail Analytics Data Engineering Project
 
 ## Overview
 
@@ -43,15 +43,15 @@ Power BI Dashboard
 
 ## Key Features
 
-✅ Automated Data Ingestion using Azure Data Factory
+- Automated Data Ingestion using Azure Data Factory
 
-✅ Bronze, Silver and Gold Medallion Architecture
+- Bronze, Silver and Gold Medallion Architecture
 
-✅ Data Cleaning and Transformation using PySpark
+- Data Cleaning and Transformation using PySpark
 
-✅ Revenue and Product Analytics using Spark SQL
+- Revenue and Product Analytics using Spark SQL
 
-✅ Interactive Power BI Dashboard
+- Interactive Power BI Dashboard
 
 ---
 
