@@ -108,9 +108,9 @@ Power BI Dashboard
 
 ## Dashboard Preview
 
-![ADF Pipeline](screenshots/adf_pipeline.png)
+- ADF Pipeline - (screenshots/adf_pipeline.png)
 
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+- Power BI Dashboard - (screenshots/powerbi_dashboard.png)
 
 ---
 
