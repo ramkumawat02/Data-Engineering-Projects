@@ -96,7 +96,8 @@ Power BI Dashboard
 │
 ├── screenshots
 │   ├── adf_pipeline.png
-│   └── powerbi_dashboard.png
+├── ├── architecture.png
+│   └── Dashboard.png
 │
 └── README.md
 ```
