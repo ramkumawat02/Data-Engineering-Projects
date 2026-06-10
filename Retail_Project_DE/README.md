@@ -96,9 +96,6 @@ Power BI Dashboard
 │
 ├── screenshots
 │   ├── adf_pipeline.png
-│   ├── bronze_layer.png
-│   ├── silver_layer.png
-│   ├── gold_layer.png
 │   └── powerbi_dashboard.png
 │
 └── README.md
