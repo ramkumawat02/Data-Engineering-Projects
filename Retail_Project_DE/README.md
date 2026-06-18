@@ -1,4 +1,4 @@
-# Retail Analytics Data Engineering Project
+# End-to-End Retail Analytics Data Engineering Pipeline (Azure) 
 
 ## Overview
 
